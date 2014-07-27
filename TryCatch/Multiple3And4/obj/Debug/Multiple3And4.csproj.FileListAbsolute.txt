@@ -1,0 +1,5 @@
+C:\VSProjects\TryCatch\TryCatch\Multiple3And4\bin\Debug\Multiple3And4.exe.config
+C:\VSProjects\TryCatch\TryCatch\Multiple3And4\bin\Debug\Multiple3And4.exe
+C:\VSProjects\TryCatch\TryCatch\Multiple3And4\bin\Debug\Multiple3And4.pdb
+C:\VSProjects\TryCatch\TryCatch\Multiple3And4\obj\Debug\Multiple3And4.exe
+C:\VSProjects\TryCatch\TryCatch\Multiple3And4\obj\Debug\Multiple3And4.pdb

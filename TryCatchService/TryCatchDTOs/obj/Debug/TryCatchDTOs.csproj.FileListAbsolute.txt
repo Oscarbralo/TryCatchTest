@@ -1,0 +1,4 @@
+C:\VSProjects\TryCatch\TryCatchService\TryCatchDTOs\bin\Debug\TryCatchDTOs.dll
+C:\VSProjects\TryCatch\TryCatchService\TryCatchDTOs\bin\Debug\TryCatchDTOs.pdb
+C:\VSProjects\TryCatch\TryCatchService\TryCatchDTOs\obj\Debug\TryCatchDTOs.dll
+C:\VSProjects\TryCatch\TryCatchService\TryCatchDTOs\obj\Debug\TryCatchDTOs.pdb

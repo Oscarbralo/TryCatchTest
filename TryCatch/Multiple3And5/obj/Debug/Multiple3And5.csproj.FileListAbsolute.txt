@@ -1,0 +1,6 @@
+C:\VSProjects\TryCatch\TryCatch\Multiple3And5\bin\Debug\Multiple3And5.exe.config
+C:\VSProjects\TryCatch\TryCatch\Multiple3And5\bin\Debug\Multiple3And5.exe
+C:\VSProjects\TryCatch\TryCatch\Multiple3And5\bin\Debug\Multiple3And5.pdb
+C:\VSProjects\TryCatch\TryCatch\Multiple3And5\obj\Debug\Multiple3And5.csprojResolveAssemblyReference.cache
+C:\VSProjects\TryCatch\TryCatch\Multiple3And5\obj\Debug\Multiple3And5.exe
+C:\VSProjects\TryCatch\TryCatch\Multiple3And5\obj\Debug\Multiple3And5.pdb

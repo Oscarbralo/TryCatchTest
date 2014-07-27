@@ -1,0 +1,9 @@
+C:\VSProjects\TryCatch\TryCatchService\TryCatchController\obj\Debug\TryCatchController.csprojResolveAssemblyReference.cache
+C:\VSProjects\TryCatch\TryCatchService\TryCatchController\bin\Debug\TryCatchController.dll
+C:\VSProjects\TryCatch\TryCatchService\TryCatchController\bin\Debug\TryCatchController.pdb
+C:\VSProjects\TryCatch\TryCatchService\TryCatchController\bin\Debug\TryCatchDTOs.dll
+C:\VSProjects\TryCatch\TryCatchService\TryCatchController\bin\Debug\TryCatchRepository.dll
+C:\VSProjects\TryCatch\TryCatchService\TryCatchController\bin\Debug\TryCatchDTOs.pdb
+C:\VSProjects\TryCatch\TryCatchService\TryCatchController\bin\Debug\TryCatchRepository.pdb
+C:\VSProjects\TryCatch\TryCatchService\TryCatchController\obj\Debug\TryCatchController.dll
+C:\VSProjects\TryCatch\TryCatchService\TryCatchController\obj\Debug\TryCatchController.pdb
