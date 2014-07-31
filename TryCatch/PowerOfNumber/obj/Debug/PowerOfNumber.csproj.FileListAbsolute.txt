@@ -3,3 +3,4 @@ C:\VSProjects\TryCatch\TryCatch\PowerOfNumber\bin\Debug\PowerOfNumber.exe
 C:\VSProjects\TryCatch\TryCatch\PowerOfNumber\bin\Debug\PowerOfNumber.pdb
 C:\VSProjects\TryCatch\TryCatch\PowerOfNumber\obj\Debug\PowerOfNumber.exe
 C:\VSProjects\TryCatch\TryCatch\PowerOfNumber\obj\Debug\PowerOfNumber.pdb
+C:\VSProjects\TryCatch\TryCatch\PowerOfNumber\obj\Debug\PowerOfNumber.csprojResolveAssemblyReference.cache
