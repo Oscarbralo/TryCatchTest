@@ -1,0 +1,5 @@
+C:\VSProjects\TryCatch\AlgoChess\ChessHelper\bin\Debug\ChessHelper.dll
+C:\VSProjects\TryCatch\AlgoChess\ChessHelper\bin\Debug\ChessHelper.pdb
+C:\VSProjects\TryCatch\AlgoChess\ChessHelper\obj\Debug\ChessHelper.csprojResolveAssemblyReference.cache
+C:\VSProjects\TryCatch\AlgoChess\ChessHelper\obj\Debug\ChessHelper.dll
+C:\VSProjects\TryCatch\AlgoChess\ChessHelper\obj\Debug\ChessHelper.pdb

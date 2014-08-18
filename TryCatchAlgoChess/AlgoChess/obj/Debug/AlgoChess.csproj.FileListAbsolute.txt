@@ -1,0 +1,8 @@
+C:\VSProjects\TryCatch\AlgoChess\AlgoChess\bin\Debug\AlgoChess.exe.config
+C:\VSProjects\TryCatch\AlgoChess\AlgoChess\bin\Debug\AlgoChess.exe
+C:\VSProjects\TryCatch\AlgoChess\AlgoChess\bin\Debug\AlgoChess.pdb
+C:\VSProjects\TryCatch\AlgoChess\AlgoChess\bin\Debug\ChessHelper.dll
+C:\VSProjects\TryCatch\AlgoChess\AlgoChess\bin\Debug\ChessHelper.pdb
+C:\VSProjects\TryCatch\AlgoChess\AlgoChess\obj\Debug\AlgoChess.csprojResolveAssemblyReference.cache
+C:\VSProjects\TryCatch\AlgoChess\AlgoChess\obj\Debug\AlgoChess.exe
+C:\VSProjects\TryCatch\AlgoChess\AlgoChess\obj\Debug\AlgoChess.pdb
