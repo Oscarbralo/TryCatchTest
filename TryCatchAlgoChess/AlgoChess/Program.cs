@@ -149,11 +149,11 @@ namespace AlgoChess
 
             result = helper.findDuplicates(result);
 
-            for (int i = 0; i < result.Count; i++)
+            for (int b = 0; b < result.Count; b++)
             {
-                for (int a = 0; a < result[i].Count; a++)
+                for (int a = 0; a < result[b].Count; a++)
                 {
-                    Console.WriteLine(result[i][a]);
+                    Console.WriteLine(result[b][a]);
                 }
                 Console.WriteLine();
             }

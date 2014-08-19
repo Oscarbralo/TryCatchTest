@@ -335,13 +335,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
-            int queensLeft = 2;
+            int kingsLeft = 2;
+            int queensLeft = 1;
             int bishopsLeft = 2;
             int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            board[i] = board[i].Insert(a, "Q");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.queenNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -399,13 +399,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
-            int queensLeft = 2;
+            int kingsLeft = 2;
+            int queensLeft = 1;
             int bishopsLeft = 2;
             int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            board[i] = board[i].Insert(a, "Q");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.queenNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -464,13 +464,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
-            int queensLeft = 2;
+            int kingsLeft = 2;
+            int queensLeft = 1;
             int bishopsLeft = 2;
             int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            board[i] = board[i].Insert(a, "Q");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.queenNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -529,13 +529,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
-            int queensLeft = 2;
+            int kingsLeft = 2;
+            int queensLeft = 1;
             int bishopsLeft = 2;
             int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            board[i] = board[i].Insert(a, "Q");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.queenNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -595,13 +595,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
-            int queensLeft = 2;
+            int kingsLeft = 2;
+            int queensLeft = 1;
             int bishopsLeft = 2;
             int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            board[i] = board[i].Insert(a, "Q");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.queenNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -661,13 +661,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
+            int kingsLeft = 2;
             int queensLeft = 2;
-            int bishopsLeft = 2;
+            int bishopsLeft = 1;
             int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            board[i] = board[i].Insert(a, "B");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.bishopNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -726,13 +726,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
+            int kingsLeft = 2;
             int queensLeft = 2;
-            int bishopsLeft = 2;
+            int bishopsLeft = 1;
             int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            board[i] = board[i].Insert(a, "B");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.bishopNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -792,13 +792,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
+            int kingsLeft = 2;
             int queensLeft = 2;
-            int bishopsLeft = 2;
+            int bishopsLeft = 1;
             int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            board[i] = board[i].Insert(a, "B");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.bishopNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -859,13 +859,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
+            int kingsLeft = 2;
             int queensLeft = 2;
-            int bishopsLeft = 2;
+            int bishopsLeft = 1;
             int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            board[i] = board[i].Insert(a, "B");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.bishopNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -926,13 +926,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
+            int kingsLeft = 2;
             int queensLeft = 2;
-            int bishopsLeft = 2;
+            int bishopsLeft = 1;
             int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            board[i] = board[i].Insert(a, "B");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.bishopNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -993,13 +993,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
+            int kingsLeft = 2;
             int queensLeft = 2;
             int bishopsLeft = 2;
-            int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            int knightsLeft = 0;
+            board[i] = board[i].Insert(a, "P");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.knightNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -1058,13 +1058,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
+            int kingsLeft = 2;
             int queensLeft = 2;
             int bishopsLeft = 2;
-            int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            int knightsLeft = 0;
+            board[i] = board[i].Insert(a, "P");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.knightNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -1124,13 +1124,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
+            int kingsLeft = 2;
             int queensLeft = 2;
             int bishopsLeft = 2;
-            int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            int knightsLeft = 0;
+            board[i] = board[i].Insert(a, "P");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.knightNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -1191,13 +1191,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
+            int kingsLeft = 2;
             int queensLeft = 2;
             int bishopsLeft = 2;
-            int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            int knightsLeft = 0;
+            board[i] = board[i].Insert(a, "P");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.knightNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
@@ -1258,13 +1258,13 @@ namespace ChessHelper
         {
             Helper helper = new Helper();
             List<List<string>> result = new List<List<string>>();
-            int kingsLeft = 1;
+            int kingsLeft = 2;
             int queensLeft = 2;
             int bishopsLeft = 2;
-            int knightsLeft = 1;
-            board[i] = board[i].Insert(a, "K");
+            int knightsLeft = 0;
+            board[i] = board[i].Insert(a, "P");
             board[i] = board[i].Remove(a + 1, 1);
-            board = helper.kingNewBoard(board, i, a);
+            board = helper.knightNewBoard(board, i, a);
             for (int b = 0; b < board.Count; b++)
             {
                 for (int c = 0; c < board[b].Length; c++)
